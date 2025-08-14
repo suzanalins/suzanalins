@@ -42,6 +42,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/suzanalins/suzanalins/output/snake.svg" alt="Snake animation" />
 
-###
