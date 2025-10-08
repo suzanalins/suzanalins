@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Suzana Lins, moro em Hortolândia-SP, e sou Aprendiz em Soluções Digitais na Bosch Brasil! 🩵</p>
+<p align="center">Meu nome é Suzana Lins, sou Aprendiz em Soluções Digitais na Bosch Brasil! 🩵</p>
 
 ###
 
