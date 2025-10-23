@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Suzana Lins, sou Aprendiz em Soluções Digitais na Bosch Brasil! 🩵</p>
+
 
 ###
 
